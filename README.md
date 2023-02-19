@@ -1,11 +1,11 @@
 # # Overview
 This is a Data Analysis program I developed in Python.
 
-[Software Demo Video]()
-[Personal Python Playlist]()
+[Software Demo Video](https://www.youtube.com/watch?v=xZD8zC2_nlQ)
+[Personal Python Playlist](https://youtube.com/playlist?list=PL-zZ5EH-lCGL67M81KtsJbgXsfTDYq2Iz)
 
 # Source Code
-* [github.com]()
+* [github.com](https://github.com/RykerSwensen/MyProj/blob/master/DATAEXTRACTION/data_extraction.ipynb)
 
 # Development Environment
 * Visual Studio Code
